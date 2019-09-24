@@ -1,0 +1,9 @@
+Starting audit...
+[ERROR] /home/bianca/Desktop/TEMA3_POO/src/cachingSystem/classes/LRUCache.java:14:31: Variable 'cacheMap' must be private and have accessor methods. [VisibilityModifier]
+[ERROR] /home/bianca/Desktop/TEMA3_POO/src/cachingSystem/classes/LRUCache.java:15:35: Variable 'cache' must be private and have accessor methods. [VisibilityModifier]
+[ERROR] /home/bianca/Desktop/TEMA3_POO/src/cachingSystem/classes/ObservableCache.java:16:32: Variable 'cacheListener' must be private and have accessor methods. [VisibilityModifier]
+[ERROR] /home/bianca/Desktop/TEMA3_POO/src/cachingSystem/classes/ObservableCache.java:17:35: Variable 'cacheStalePolicy' must be private and have accessor methods. [VisibilityModifier]
+[ERROR] /home/bianca/Desktop/TEMA3_POO/src/dataStructures/classes/Node.java:11:23: Variable 'nextNode' must be private and have accessor methods. [VisibilityModifier]
+[ERROR] /home/bianca/Desktop/TEMA3_POO/src/dataStructures/classes/Node.java:12:23: Variable 'prevNode' must be private and have accessor methods. [VisibilityModifier]
+Audit done.
+Checkstyle ends with 6 errors.
